@@ -10,7 +10,8 @@ instalar loca
 
 clonar repo cl-scaffolding
 
-modificar nombre, repositorios requeridos, imagenes requeridas, documentacion
+Cambiar el nombre scaffolding por el nombre del cliente en todo el modulo.
+Revisar, repositorios requeridos, imagenes requeridas, documentacion.
 
 parado en el repo oe -i -c clientname
 
