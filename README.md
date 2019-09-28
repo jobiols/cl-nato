@@ -1,16 +1,16 @@
-CUSTOMIZACION SCAFFOLDING 
+CUSTOMIZACION nato 
 -------------------------
 
-[![Build Status](https://travis-ci.org/jobiols/cl-scaffolding.svg?branch=11.0)](https://travis-ci.org/jobiols/cl-scaffolding)
-[![CodeFactor](https://www.codefactor.io/repository/github/jobiols/cl-scaffolding/badge)](https://www.codefactor.io/repository/github/jobiols/cl-scaffolding)
+[![Build Status](https://travis-ci.org/jobiols/cl-nato.svg?branch=11.0)](https://travis-ci.org/jobiols/cl-nato)
+[![CodeFactor](https://www.codefactor.io/repository/github/jobiols/cl-nato/badge)](https://www.codefactor.io/repository/github/jobiols/cl-nato)
 
 
 instalar loca
 ~~~~~~~~~~~~~
 
-clonar repo cl-scaffolding
+clonar repo cl-nato
 
-Cambiar el nombre scaffolding por el nombre del cliente en todo el modulo.
+Cambiar el nombre nato por el nombre del cliente en todo el modulo.
 Revisar, repositorios requeridos, imagenes requeridas, documentacion.
 
 parado en el repo oe -i -c clientname

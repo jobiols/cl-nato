@@ -18,11 +18,11 @@
 #
 # -----------------------------------------------------------------------------
 {
-    'name': 'scaffolding',
+    'name': 'nato',
     'version': '11.0.0.0.0',
     'license': 'Other OSI approved licence',
     'category': 'Default Application',
-    'summary': 'Customization for scaffolding',
+    'summary': 'Customization for nato',
     'author': 'jeo Software',
     'depends': [
         # basic applications
@@ -60,7 +60,7 @@
 
     # example repos version 1
     'repos': [
-        {'usr': 'jobiols', 'repo': 'cl-scaffolding', 'branch': '11.0'},
+        {'usr': 'jobiols', 'repo': 'cl-nato', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'rafi16jan-backend-theme',
          'branch': '11.0'},
@@ -97,7 +97,7 @@
     # Note that the branch of the repo to download is taken from the module
     # version
     'git-repos': [
-        'https://github.com/jobiols/cl-scaffolding.git',
+        'https://github.com/jobiols/cl-nato.git',
         'https://github.com/jobiols/odoo-addons.git',
         'https://github.com/jobiols/adhoc-odoo-argentina.git',
     ],

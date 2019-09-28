@@ -1,4 +1,4 @@
-.. |customer| replace:: scaffolding
+.. |customer| replace:: nato
 
 .. |company| replace:: jeo Soft
 
