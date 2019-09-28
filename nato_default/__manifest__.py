@@ -76,6 +76,11 @@
         {'usr': 'jobiols', 'repo': 'oca-server-tools', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'oca-social', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'oca-server-brand', 'branch': '11.0'},
+
+        {'usr': 'oca', 'repo': 'sale-workflow', 'branch': '11.0'},
+        {'usr': 'oca', 'repo': 'stock-logistics-workflow', 'branch': '11.0'},
+        {'usr': 'ingadhoc', 'repo': 'stock', 'branch': '11.0'},
+
     ],
 
     'docker': [
