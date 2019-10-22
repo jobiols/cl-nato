@@ -57,6 +57,7 @@
          'host': 'bitbucket.org'},
 
         {'usr': 'jobiols', 'repo': 'odoo-addons', 'branch': '11.0'},
+        {'usr': 'jobiols', 'repo': 'regaby-odoo-addons', 'branch': '11.0'},
 
         {'usr': 'jobiols', 'repo': 'adhoc-odoo-argentina', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'adhoc-argentina-sale', 'branch': '11.0'},
@@ -77,9 +78,11 @@
         {'usr': 'jobiols', 'repo': 'oca-social', 'branch': '11.0'},
         {'usr': 'jobiols', 'repo': 'oca-server-brand', 'branch': '11.0'},
 
+        {'usr': 'oca', 'repo': 'event', 'branch': '11.0'},
         {'usr': 'oca', 'repo': 'sale-workflow', 'branch': '11.0'},
         {'usr': 'oca', 'repo': 'stock-logistics-workflow', 'branch': '11.0'},
         {'usr': 'ingadhoc', 'repo': 'stock', 'branch': '11.0'},
+        {'usr': 'ingadhoc', 'repo': 'partner', 'branch': '11.0'},
 
     ],
 
